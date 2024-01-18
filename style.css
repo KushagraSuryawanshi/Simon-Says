@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background-color: rgb(199, 246, 175);
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  height: 170px;
+  width: 170px;
+  border: 5px solid black;
+  border-radius: 40px;
+  margin: 1rem;
+  box-shadow: 3px 3px 10px black;
+}
+
+.color1 {
+  background-color: #7f58af;
+}
+.color2 {
+  background-color: #64c5eb;
+}
+.color3 {
+  background-color: #e84d8a;
+}
+.color4 {
+  background-color: #feb326;
+}
+
+.flash {
+  background-color: whitesmoke;
+}
+
+.userFlash {
+  background-color: black;
+}
+
+.lost {
+  background-color: red;
+}
